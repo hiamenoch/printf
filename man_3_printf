@@ -119,7 +119,6 @@ int main(void)
 	length = _printf(''Hello Holberton!'');
 
 	return (0);
-
 }
 .SH SEE ALSO
 .R printf(3)
