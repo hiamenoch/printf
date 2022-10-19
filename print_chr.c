@@ -5,7 +5,7 @@
  * @arguments: input char
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
- * Return: On success 1.
+ * Return: On success 1 or -1 on failure.
  */
 
 int print_chr(va_list arguments, char *buf, unsigned int ibuf)
